@@ -11,20 +11,6 @@ This is an academic project for a Computer Vision module.
 - Evaluates model performance (basic metrics and plots)
 - Saves/prints results inside the notebook
 
-## Files
-- tomato-cnn-project.ipynb: main notebook
-- .gitignore: ignored files/folders for clean version control
-
-## Dataset
-The dataset is not included in this repository.
-
-Add the dataset source link here:
-- Dataset source: <PASTE_DATASET_LINK_HERE>
-
-Notes:
-- Do not upload large datasets to GitHub.
-- Keep the dataset local or use a cloud drive link if needed.
-
 ## How to run
 Option 1: Google Colab (recommended)
 1. Open tomato-cnn-project.ipynb on GitHub
@@ -41,5 +27,4 @@ Option 2: Run locally
 4. Open and run:
    tomato-cnn-project.ipynb
 
-## License
-For academic sharing. Add a license file if you want others to reuse the code under specific terms.
+
